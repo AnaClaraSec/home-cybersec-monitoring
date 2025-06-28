@@ -1,0 +1,3 @@
+# Dia 06 Monitoramento
+
+Conteúdo inicial...

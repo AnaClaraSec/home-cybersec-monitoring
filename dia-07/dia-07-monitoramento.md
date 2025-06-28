@@ -1,0 +1,3 @@
+# Dia 07 Monitoramento
+
+Conteúdo inicial...

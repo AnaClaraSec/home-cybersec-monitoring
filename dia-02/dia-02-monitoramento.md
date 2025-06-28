@@ -1,0 +1,3 @@
+# Dia 02 Monitoramento
+
+Conteúdo inicial...

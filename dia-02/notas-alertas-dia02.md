@@ -1,0 +1,3 @@
+# Notas Alertas Dia02
+
+Conteúdo inicial...
