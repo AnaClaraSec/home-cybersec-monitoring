@@ -7,9 +7,9 @@ Este projeto tem como objetivo monitorar e analisar a segurança da rede domést
 - `politicas-grc/`: governança, risco e conformidade
 - `conclusao/`: resumo e aprendizados finais
 - `dia-01` a `dia-07/`: arquivos de cada dia (capturas, análises e anotações)
- - captura-diaXX.pcap: captura de tráfego (também copiada para captura-rede/)
- - dia-XX-monitoramento.md: resumo das atividades e análises do dia
- - notas-alertas-diaXX.md: alertas classificados: Informativo, Baixo, Médio, Alto
+ - ├──captura-diaXX.pcap: captura de tráfego (também copiada para captura-rede/)
+ - ├──dia-XX-monitoramento.md: resumo das atividades e análises do dia
+ - ├──notas-alertas-diaXX.md: alertas classificados: Informativo, Baixo, Médio, Alto
    
 - `captura-rede/`: arquivos .pcap com as capturas de tráfego feitas com Wireshark
   
